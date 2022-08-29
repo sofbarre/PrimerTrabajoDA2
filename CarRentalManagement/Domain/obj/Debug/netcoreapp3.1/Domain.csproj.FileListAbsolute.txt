@@ -1,0 +1,10 @@
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\sofba\OneDrive\Escritorio\semestre6\diseño\CarRentalManagement\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
